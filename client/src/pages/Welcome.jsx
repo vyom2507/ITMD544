@@ -29,7 +29,9 @@ const Welcome = () => {
       <div className="section-box">
         <h2>🌟 Customer Reviews</h2>
         <p>“Fast delivery and top quality!” – ⭐ Priya</p>
-        <p>“Smooth UI and great support.” – 💬 Rohan</p>
+        <p>“Smooth UI and great support.” – 💬 Yash</p>
+        <p>“Responsive and easy to tackle.” – ⭐ Vidhi</p>
+        <p>“Easy to use and order .” – 💬 Vaibhav</p>
       </div>
 
       <div className="section-box">
